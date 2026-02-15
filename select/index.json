@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Cheeky Icy Thang",
+  "base_artist": "STAYC",
+  "createdAt": "2026-02-15T19:14:49.933290Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheeky Icy Thang",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/01_Cheeky_Icy_Thang_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheeky Icy Thang (Cheeky Icy Thang)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/02_Cheeky_Icy_Thang_(Cheeky_Icy_Thang)_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cheeky Icy Thang - Japanese Ver.",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/03_Cheeky_Icy_Thang_-_Japanese_Ver._STAYC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cheeky Icy Thang (Japanese Version)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/04_Cheeky_Icy_Thang_(Japanese_Version)_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cheeky Icy Thang",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/05_Cheeky_Icy_Thang_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cheeky Icy Thang (Japanese Ver.)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/06_Cheeky_Icy_Thang_(Japanese_Ver.)_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cheeky Icy Thang",
+      "artist": "STAYC (스테이씨)",
+      "has_synced": true,
+      "path": "select/07_Cheeky_Icy_Thang_STAYC_(스테이씨).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cheeky Icy Thang (Cheeky Icy Thang)",
+      "artist": "STAYC(스테이씨)",
+      "has_synced": true,
+      "path": "select/08_Cheeky_Icy_Thang_(Cheeky_Icy_Thang)_STAYC(스테이씨).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cheeky Icy Thang",
+      "artist": "STAYC",
+      "has_synced": false,
+      "path": "select/pl_01_Cheeky_Icy_Thang_STAYC.txt"
+    }
+  ]
+}
